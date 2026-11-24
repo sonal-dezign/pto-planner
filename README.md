@@ -2,7 +2,7 @@
 
 Plan your time off from **December 2026 through December 2027**. The planner shows US holidays, points out the days that turn into long breaks, and lets you sketch a few versions of your plan.
 
-**Try it:** `https://<your-username>.github.io/pto-planner/`
+**Try it:** https://sonal-dezign.github.io/pto-planner/
 
 ## Features
 
